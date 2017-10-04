@@ -1,12 +1,13 @@
 /* Universal Settings */
 body, html {
   height: 100%;
+  width: 100vw;
   margin: 0;
   font-family: "Josefin Sans", sans-serif;
   color: #fcfdff;
   line-height: 1.8em;
   background-color: #222;
-  background: url('../img/ch1_airport.jpeg') center center no-repeat fixed;
+  background: url('../img/ch1_airport.jpg') center right no-repeat fixed;
   position: relative;
 }
 
